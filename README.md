@@ -1,4 +1,4 @@
-# Agent Blind Spots
+# Agent Edge Cases
 
 > Everything you haven't considered in your agent design.
 

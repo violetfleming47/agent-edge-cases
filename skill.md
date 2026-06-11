@@ -1,4 +1,4 @@
-# Agent Blind Spots
+# Agent Edge Cases
 
 > Everything you haven't considered in your agent design. Not an audit of a specific system — a walk through the failure modes you don't know exist.
 
@@ -24,7 +24,7 @@ You can also use this without a specific system. Just ask to see the failure mod
 
 ---
 
-## The Blind Spots
+## The Edge Cases
 
 ### 1. Your Monolith Is Cross-Pollinating
 
