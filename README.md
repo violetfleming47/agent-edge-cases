@@ -38,3 +38,18 @@ If something makes you uncomfortable, the other packages help you fix it:
 - **Agent Knowledge Curator** for knowledge and interpretation problems
 - **Agent Drift Prevention** for decay, drift, and cascade problems
 - **Agent System Review** for a full diagnosis of an existing system
+
+---
+
+## About
+
+Created by [Violet Fleming](https://github.com/violetfleming47). These tools are grounded in a design philosophy developed across production multi-agent systems — the same thinking behind [Orion](https://github.com/violetfleming47).
+
+Part of a suite of open-source agent design tools:
+- [Agent System Design](https://github.com/violetfleming47/agent-system-design) — design and decompose agent systems
+- [Agent Knowledge Curator](https://github.com/violetfleming47/agent-knowledge-curator) — capture institutional knowledge
+- [Agent Drift Prevention](https://github.com/violetfleming47/agent-drift-prevention) — prevent silent degradation
+- **Agent Edge Cases** — failure modes you haven't considered
+- [Agent System Review](https://github.com/violetfleming47/agent-system-review) — architectural review of existing systems
+
+Licensed under [CC BY-NC 4.0](LICENSE).
