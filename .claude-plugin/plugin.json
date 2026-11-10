@@ -1,0 +1,19 @@
+{
+  "name": "agent-edge-cases",
+  "description": "Ten failure modes most people building agents have never considered.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Violet Fleming",
+    "url": "https://github.com/violetfleming47"
+  },
+  "homepage": "https://github.com/violetfleming47/agent-edge-cases",
+  "repository": "https://github.com/violetfleming47/agent-edge-cases",
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "agent-design",
+    "failure-modes",
+    "multi-agent",
+    "agent-reliability",
+    "llm"
+  ]
+}

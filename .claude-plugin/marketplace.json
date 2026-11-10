@@ -1,0 +1,16 @@
+{
+  "name": "agent-edge-cases",
+  "description": "Ten failure modes most people building agents have never considered.",
+  "owner": {
+    "name": "Violet Fleming",
+    "url": "https://github.com/violetfleming47"
+  },
+  "plugins": [
+    {
+      "name": "agent-edge-cases",
+      "source": "./",
+      "description": "Ten failure modes most people building agents have never considered.",
+      "version": "1.0.0"
+    }
+  ]
+}

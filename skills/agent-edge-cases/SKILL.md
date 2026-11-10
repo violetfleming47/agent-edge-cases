@@ -1,3 +1,8 @@
+---
+name: agent-edge-cases
+description: Walk through ten failure modes most agent builders never consider — cross-pollination, vacuum filling, mushy output, silent re-interpretation, absence-as-signal traps, silent data aging and more. Use when designing an agent system or sanity-checking one for blind spots.
+---
+
 # Agent Edge Cases
 
 > Everything you haven't considered in your agent design. Not an audit of a specific system — a walk through the failure modes you don't know exist.

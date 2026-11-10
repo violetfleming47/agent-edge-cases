@@ -41,9 +41,41 @@ If something makes you uncomfortable, the other packages help you fix it:
 
 ---
 
+## Install
+
+### Claude Code (as a plugin)
+
+```
+/plugin marketplace add violetfleming47/agent-edge-cases
+/plugin install agent-edge-cases@agent-edge-cases
+```
+
+### Claude Code (manual copy)
+
+```bash
+git clone https://github.com/violetfleming47/agent-edge-cases.git
+cp -R agent-edge-cases/skills/* ~/.claude/skills/
+```
+
+### Claude apps (claude.ai, Desktop)
+
+Download a skill's `.zip` from the [latest release](https://github.com/violetfleming47/agent-edge-cases/releases/latest) and upload it under Skills in Claude's settings.
+
+### Other harnesses (Cursor, Windsurf, custom agents)
+
+Each `SKILL.md` is plain markdown. Load it as a rule or system prompt, and keep its `references/` folder alongside it.
+
+### What's included
+
+Every skill is a self-contained folder under `skills/`, with a `SKILL.md` and the reference documents it draws on:
+
+- `agent-edge-cases`
+
+---
+
 ## About
 
-Created by [Violet Fleming](https://github.com/violetfleming47). These tools are grounded in a design philosophy developed across production multi-agent systems — the same thinking behind [Orion](https://github.com/violetfleming47).
+Created by [Violet Fleming](https://github.com/violetfleming47). These tools are grounded in a design philosophy developed across production multi-agent systems.
 
 Part of a suite of open-source agent design tools:
 - [Agent System Design](https://github.com/violetfleming47/agent-system-design) — design and decompose agent systems
